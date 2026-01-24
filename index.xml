@@ -7,7 +7,17 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>江鄢川</copyright>
-        <lastBuildDate>Sat, 24 Jan 2026 01:42:56 +0800</lastBuildDate><atom:link href="https://jiangyanchuan.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 25 Jan 2026 02:59:57 +0800</lastBuildDate><atom:link href="https://jiangyanchuan.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>4</title>
+        <link>https://jiangyanchuan.github.io/p/4/</link>
+        <pubDate>Sun, 25 Jan 2026 02:59:57 +0800</pubDate>
+        
+        <guid>https://jiangyanchuan.github.io/p/4/</guid>
+        <description>&lt;p&gt;可以相信ai给的代码 但不能相信他的本地运行&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&lt;/p&gt;
+&lt;p&gt;无数次检查差别和对错以后都能得到一个看似合理但都不一样的flag 决定自己去本地运行以后一次就能得到flag 不能完全依赖ai&amp;hellip;&amp;hellip;..&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>3</title>
         <link>https://jiangyanchuan.github.io/p/3/</link>
         <pubDate>Sat, 24 Jan 2026 01:42:56 +0800</pubDate>
