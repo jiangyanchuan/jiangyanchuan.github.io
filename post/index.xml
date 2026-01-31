@@ -17,11 +17,11 @@
 </description>
         </item>
         <item>
-        <title>1</title>
-        <link>https://jiangyanchuan.github.io/p/1/</link>
+        <title>ctf</title>
+        <link>https://jiangyanchuan.github.io/p/ctf/</link>
         <pubDate>Fri, 09 Jan 2026 15:28:20 +0800</pubDate>
         
-        <guid>https://jiangyanchuan.github.io/p/1/</guid>
+        <guid>https://jiangyanchuan.github.io/p/ctf/</guid>
         <description>&lt;p&gt;1.我真的靠了 _和空格在记事本里面的显示竟然都是空格 以后跟教程的时候不要提前了 先看懂了在写&lt;/p&gt;
 &lt;p&gt;2.尝试了一下RDCTF的两道re题 显然都不会做 那道base64的卡在了打开文件那一步 不知道如何正确得到密码表&lt;/p&gt;
 &lt;p&gt;然后去做了密码题里面的那个斐波那契的题 喂给ai以后尝试着理解得出来的答案经过几次加密以后得到flag&lt;/p&gt;
