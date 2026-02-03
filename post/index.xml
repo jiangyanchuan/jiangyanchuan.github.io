@@ -14,6 +14,8 @@
         
         <guid>https://jiangyanchuan.github.io/p/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</guid>
         <description>&lt;p&gt;1.似乎面对的数据较大时 循环比迭代所需要的空间更少&lt;/p&gt;
+&lt;p&gt;2.计算机对于加减法的运行时间几乎可以忽略不记 影响运行效率的主要是乘除&lt;/p&gt;
+&lt;p&gt;3.对于算法追求高效 分而治之 在线处理&lt;/p&gt;
 </description>
         </item>
         <item>
