@@ -26,13 +26,7 @@
         <pubDate>Fri, 09 Jan 2026 15:28:20 +0800</pubDate>
         
         <guid>https://jiangyanchuan.github.io/p/ctf/</guid>
-        <description>&lt;p&gt;1.我真的靠了 _和空格在记事本里面的显示竟然都是空格 以后跟教程的时候不要提前了 先看懂了在写&lt;/p&gt;
-&lt;p&gt;2.尝试了一下RDCTF的两道re题 显然都不会做 那道base64的卡在了打开文件那一步 不知道如何正确得到密码表&lt;/p&gt;
-&lt;p&gt;然后去做了密码题里面的那个斐波那契的题 喂给ai以后尝试着理解得出来的答案经过几次加密以后得到flag&lt;/p&gt;
-&lt;p&gt;3.RDCTF的第二个rsa的题目得出来一个很像的RDCTF{H0w_d1d_y0u_crack_1t?}但是并不对 感觉和斐波那契一样可能还有哪一步是我没想到的 尝试了一下pwn的那个灵魂舞步 连上靶机以后第一关是猜随机数的题目 期间在使用ida的时候ai说到了plt和调用基址  还是需要多了解基础知识 以后都得靠自己做的&lt;/p&gt;
-&lt;p&gt;4.可以相信ai给的代码 但不能相信他的本地运行&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&amp;hellip;&lt;/p&gt;
-&lt;p&gt;无数次检查差别和对错以后都能得到一个看似合理但都不一样的flag 决定自己去本地运行以后一次就能得到flag 不能完全依赖ai&amp;hellip;&amp;hellip;..&lt;/p&gt;
-&lt;p&gt;5.今日份的收获应该是脱离直接使用windows的舒适圈 去适应虚拟机的linux环境把基本的配置重新安装一遍 密码题的最简单的也不简单了 不是ai能直接做出来的了&lt;/p&gt;
+        <description>&lt;p&gt;2026.6.29  重新开始&lt;/p&gt;
 </description>
         </item>
         
